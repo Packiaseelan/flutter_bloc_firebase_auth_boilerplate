@@ -1,4 +1,4 @@
-package com.example.flutter_bloc_firebase_auth_boilerplate
+package com.example.flutter-bloc-auth-boiler
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
